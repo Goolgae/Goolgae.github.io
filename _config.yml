@@ -3,7 +3,7 @@ title_left: "Goolgae's"
 title_right: "space" # default: ""
 description: "Goolgae's Engineering-Blog"
 keywords: "Goolgae, Sunwoo Lee, SEO, blog, web, minimalist, thinkspace"
-url: https://goolgae.me # site url
+url: "https://goolgae.me" # site url
 baseurl: "/Goolgae.github.io" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover: "" # image uri like logo/cover image for site seo
 
