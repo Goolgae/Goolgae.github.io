@@ -1,6 +1,6 @@
 # Site settings
-title_left: "Goolgae"
-title_right: "story" # default: ""
+title_left: "Write"
+title_right: "space" # default: ""
 description: "Goolgae's Engineering-Blog"
 keywords: "Goolgae, Sunwoo Lee, SEO, blog, web, minimalist, thinkspace"
 url: "https://goolgae.me" # site url
